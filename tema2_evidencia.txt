@@ -1,0 +1,3 @@
+Nombre completo: Fernando Davila
+Fecha: 16/09/2026
+Lo que aprendí hoy: Aprendí a crear un entorno en conda, usar un poco el jupyter notebook, crear y clonar un repositorio en githup y configurar con git.
