@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Wanchaq (Casa)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.956405,
+          -13.532021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "UNSAAC (Perayoc)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.95833925049237,
+          -13.521801427024677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Plaza de Armas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9785,
+          -13.517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Sacsayhuaman"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.9817,
+          -13.5075
+        ]
+      }
+    }
+  ]
+}
